@@ -8,7 +8,7 @@
 
 I'm ~~a dragon lost in human world~~ trying to find a balance between research and engineering.
 
-- 🔭 Research-wise, I'm mainly working on topics related to exploring the capability of machines to develop intelligent behavior upon what they have learned, like meta-learning and continual learning.
+- 🔭 Research-wise, I'm mainly working on topics related to exploring the capability of machines to be continual and efficient, like continual learning, meta-learning and few-shot learning.
 - 🚀 I'm learning to build machine learning softwares and systems.
 - 🧐 I'm also learning TypeScript, React, Electron and Go.
 - 👾 I'm currently interested in constructing buildings in Minecraft.

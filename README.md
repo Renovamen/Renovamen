@@ -8,8 +8,7 @@
 
 I'm ~~a dragon lost in human world~~ trying to find a balance between research and engineering.
 
-- 🔭 Research-wise, I'm mainly working on topics related to exploring the capability of machines to be continual, generalizable and data-efficient, like continual learning, meta-learning and few-shot learning
-- 🎯 I'm also working on vision-language learning and video understanding for my internship
+- 🔭 Research-wise, I'm interested in machine learning (improving continuity, generalizability, efficiency, etc.) and computer vision (vision-language and video models)
 - 🚀 I'm learning to build machine learning softwares and systems
 - 🧐 I'm also learning TypeScript, React and Vue
 - 🕹️ Here are two "interesting" versions of my portfolio/cv: [portfolio.zxh.io](https://portfolio.zxh.io) and [resume.zxh.io](https://resume.zxh.io)
